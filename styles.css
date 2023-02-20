@@ -1,4 +1,42 @@
-/* Copy and paste your CSS from CodePen into here */
 body {
   background-color: lightgreen;
+}
+
+#main {
+  color: blue;
+  font-family: 'Avenir'
+}
+
+#title {
+  font-family: 'Avenir';
+  text-align: center;
+}
+
+#subtitle {
+  font-family: 'Avenir';
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+
+#image  {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+#img-caption  {
+  font-weight: 700;
+}
+
+#img-div  {
+  padding: 20px;
+}
+
+#cite {
+  font-weight: 700;
+}
+
+#tribute-info {
+  color: gray;
 }
